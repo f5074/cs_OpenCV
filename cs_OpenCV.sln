@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F5074.WPF.OpenCV", "F5074.WPF.OpenCV\F5074.WPF.OpenCV.csproj", "{2E7B837E-6247-433D-9FB1-86ADEF322C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F5074.Winforms.OpenCV", "F5074.Winforms.OpenCV\F5074.Winforms.OpenCV.csproj", "{B3AF3C63-C7FE-49BF-96CA-CE8A867F0D2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "History", "History", "{8514ABD2-D153-475E-A887-9253982DEB62}"
+	ProjectSection(SolutionItems) = preProject
+		ProgramHistory.txt = ProgramHistory.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E7B837E-6247-433D-9FB1-86ADEF322C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7B837E-6247-433D-9FB1-86ADEF322C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7B837E-6247-433D-9FB1-86ADEF322C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7B837E-6247-433D-9FB1-86ADEF322C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3AF3C63-C7FE-49BF-96CA-CE8A867F0D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AF3C63-C7FE-49BF-96CA-CE8A867F0D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AF3C63-C7FE-49BF-96CA-CE8A867F0D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AF3C63-C7FE-49BF-96CA-CE8A867F0D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F75ABCD8-64F2-48E7-AE9D-C60D00FEB022}
+	EndGlobalSection
+EndGlobal
